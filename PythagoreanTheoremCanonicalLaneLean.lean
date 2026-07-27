@@ -1,0 +1,3 @@
+import PythagoreanTheoremCanonicalLaneLean.Basic
+import PythagoreanTheoremCanonicalLaneLean.GateLemmas
+import PythagoreanTheoremCanonicalLaneLean.FinalTheorem
